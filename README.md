@@ -1,6 +1,6 @@
 # 📸 PhotoHub
 
-A simple and elegant photography-themed landing page built with HTML and CSS.
+A simple photography-themed landing page built with HTML and CSS.
 
 ## 🚀 Features
 - Sidebar navigation with Gallery, Store, and Contact links
